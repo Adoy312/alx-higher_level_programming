@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-print_last_digit.py
-
+# gabriel kyeremateng
 
 
 def print_last_digit(number):
