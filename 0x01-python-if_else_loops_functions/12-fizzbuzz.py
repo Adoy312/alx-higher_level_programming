@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 12-fizzbuzz.py
-
+# gabriel kyeremateng
 
 
 def fizzbuzz():
